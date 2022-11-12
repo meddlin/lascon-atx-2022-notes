@@ -4,6 +4,8 @@ Jim Manico, Manicode Security
 Twitter [@manicode](https://twitter.com/manicode)
 jim@manicode.com — [https://manicode.com/](https://manicode.com/)
 
+---
+
 
 ## InfoSec Dark Ages
 
