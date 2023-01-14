@@ -1,5 +1,7 @@
 # Supply Chain Security Team
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=LC74RsWyBoM](https://www.youtube.com/watch?v=LC74RsWyBoM)
+
 “everyone is talking about supply chain security, but no one is actually practicing it”
 
 - at RSA there was a supply chain talk in every block of talks

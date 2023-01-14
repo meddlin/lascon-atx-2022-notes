@@ -1,5 +1,7 @@
 # FAIR STRIDE - Building Business Relevant Threat Models
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=kfB98Cnkn_w](https://www.youtube.com/watch?v=kfB98Cnkn_w)
+
 Arthur Loris, Sr. Manager of Product Security at Ping Identity
 
 The point of this talk: “Not to predict the future, but to educate decision making.”

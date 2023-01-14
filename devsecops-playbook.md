@@ -1,5 +1,7 @@
 # DevSecOps Playbook
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=4pIBUcwXEzQ](https://www.youtube.com/watch?v=4pIBUcwXEzQ)
+
 Paul McCartey
 - SecureStack—Austrailian company (startup) Queensland
 - [SecureStack—Austrailian company (startup) Queensland](https://github.com/6mile/DevSecOps-Playbook)

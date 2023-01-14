@@ -1,5 +1,7 @@
 # Close Encounters of the Vulnerable Kind - A DevSecOps Odyssey
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=VguKMaz9s9o](https://www.youtube.com/watch?v=VguKMaz9s9o)
+
 Pranshu Bajpai
 - twitter: amirootyet
 - linkedin: pranshubajpai
