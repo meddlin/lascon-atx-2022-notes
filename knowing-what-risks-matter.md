@@ -1,5 +1,7 @@
 # Knowing What Risks Matter-and don't-In Your Open Source
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=Paj8jsW9xeg](https://www.youtube.com/watch?v=Paj8jsW9xeg)
+
 Naomi Buckwalter, Director of Product Security
 
 - Contrast Security

@@ -1,5 +1,7 @@
 # Abridged History of AppSec
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=QbEjNqKRhCg](https://www.youtube.com/watch?v=QbEjNqKRhCg)
+
 Jim Manico, Manicode Security
 Twitter [@manicode](https://twitter.com/manicode)
 jim@manicode.com — [https://manicode.com/](https://manicode.com/)

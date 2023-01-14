@@ -1,5 +1,7 @@
 # Hacking and Defending APIs - Red and Blue Make Purple
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=R7YIT_smRp8](https://www.youtube.com/watch?v=R7YIT_smRp8)
+
 Talk w/ Scott over lunch
 
 multi-tiered approach

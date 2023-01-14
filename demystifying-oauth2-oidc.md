@@ -1,5 +1,7 @@
 # Demystifying OAuth2 and OIDC
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=bhvJ1z-ye6E](https://www.youtube.com/watch?v=bhvJ1z-ye6E)
+
 _It’s all about trust_
 
 We live in a “trust no one” world

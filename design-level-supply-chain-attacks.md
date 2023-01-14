@@ -1,5 +1,7 @@
 # Design-Level Supply Chain Attacks
 
+> LASCON Recorded video: [https://www.youtube.com/watch?v=Uh_rh0k0P3U](https://www.youtube.com/watch?v=Uh_rh0k0P3U)
+
 “Software Supply Chain Security Threats at the Design”—the overlooked risk
 
 Moshi Zioni — VP of Security Rsearch at Apiiro
